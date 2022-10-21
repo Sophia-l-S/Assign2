@@ -10,6 +10,7 @@ namespace Assign2.Controllers
     public class J1Controller : ApiController
     {
         /// <summary> 
+        /// CCC 2006 The New CCC (Canadian Calorie Counting)
         /// prompt the user for a number for each type of food item then calculate and display the Calorie total. 
         /// </summary> 
         /// <returns>Returns the total calories output of the four inputs from the users </returns> 
